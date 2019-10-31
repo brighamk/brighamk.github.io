@@ -7,4 +7,6 @@ date: 2019-10-31
 The goal of this project was conduct a regional and time trend analysis of the most common causes of death in the United States. I collaborated with two other classmates to first collect county level data of fifteen different death rates from the Center for Disease Control, including Heart Disease death rates and Cancer death rates. We cleaned and merged this data with county level demographic information from the U.S. Census Bureau and County Health Rankings. Next, we conducted principal component analysis in Python to reduce the original fifteen death rate features to seven principal components that retained 80% of the variation. 
 
 
-![Image](https://github.com/brighamk/brighamk.github.io/blob/master/images/what-is-data-science-1040x520.jpg?raw=true)
+![Image](https://github.com/brighamk/brighamk.github.io/blob/master/images/Picture2.png?raw=true)
+
+

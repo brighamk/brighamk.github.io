@@ -8,9 +8,9 @@ The goal of this project was conduct a regional and time trend analysis of the m
 
 ![Image](https://github.com/brighamk/brighamk.github.io/blob/master/images/Picture2.png?raw=true)
 
-We collected the age adjusted death rates in 5 year intervals. We collected the death rates in 5 year intervals is because if there were less than 20 deaths for a selected time period, the CDC reports the death rate as "Unreliable". Increasing the time period from one year to five year intervals resulted in less "Unreliable" data. We collected the death rates for 2009-2013, 2011-2015, and 2013-2017. 
+We collected the age adjusted death rates in 5 year intervals. We collected the death rates in 5 year intervals is because if there were less than 20 deaths for a selected time period, the CDC reports the death rate as "Unreliable". Increasing the time period from one year to five year intervals resulted in less "Unreliable" data. We collected the death rates for 2009-2013, 2011-2015, and 2013-2017. When analyzing which death rates had the biggest change from 2009-2013 to 2013-2017, we found that the opioid death rates had the most significant increase in many counties in the east. 
 
-
+![Image](https://github.com/brighamk/brighamk.github.io/blob/master/images/Picture4.png?raw=true)
 
 
 

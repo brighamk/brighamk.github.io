@@ -13,5 +13,6 @@ date: 2019-10-31
 ![Image](https://github.com/brighamk/brighamk.github.io/blob/master/images/Picture4.png?raw=true)
 
   Next, we conducted principal component analysis in Python to reduce the original fifteen death rate features to seven principal components that retained 80% of the variation. Also in Python, K-Means cluster analysis was performed on the components to create six clusters of counties with similar death rates. To describe the clusters, we collected county level
-demographic information from the U.S. Census Bureau and County Health Rankings and merged the data with the principal components. 
+demographic information from the U.S. Census Bureau and County Health Rankings and merged the data with the principal components. An analysis of the clusters was performed by computing the average of the death rates and demographic variables by cluster. We pulled out the variables that significantly differed from the other clusters in the graphic below. 
 
+![Image](https://github.com/brighamk/brighamk.github.io/blob/master/images/Picture5.png?raw=true)

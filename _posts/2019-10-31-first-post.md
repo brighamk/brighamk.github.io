@@ -23,7 +23,7 @@ The alluvial diagram below shows the movement of counties between clusters over 
 
 The 'Average Communities" cluster dissolved in the 2013-2017 time period and a new cluster with high average opioid deaths emerged. 
 
-![Image](https://github.com/brighamk/brighamk.github.io/blob/master/images/Picture7.png?raw=true)
+![Image](https://github.com/brighamk/brighamk.github.io/blob/master/images/Picture8.png?raw=true)
 
 After comparing the opioid death rates between clusters, it was evident that the cluster highlighted in the picture above had an average opioid death rate at least two times the rate of all other clusters. This was the defining feature of the cluster. It can also be seen in the picture above that opioid deaths affected counties from every socioeconomic group, but hit the poor and least populated counties the worst. 
 

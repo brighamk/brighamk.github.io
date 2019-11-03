@@ -17,6 +17,14 @@ demographic information from the U.S. Census Bureau and County Health Rankings a
 
 ![Image](https://github.com/brighamk/brighamk.github.io/blob/master/images/Picture5.png?raw=true)
 
-The alluvial diagram below shows the movement of counties between clusters over the three time periods. 
+The alluvial diagram below shows the movement of counties between clusters over the three time periods. Five of the six original clusters stayed intact across the three time periods, with counties shifting minimally between these clusters.  
 
 ![Image](https://github.com/brighamk/brighamk.github.io/blob/master/images/Picture6.png?raw=true)
+
+The 'Average Communities" cluster dissolved in the 2013-2017 time period and a new cluster with high average opioid deaths emerged. 
+
+![Image](https://github.com/brighamk/brighamk.github.io/blob/master/images/Picture7.png?raw=true)
+
+After comparing the opioid death rates between clusters, it was evident that the cluster highlighted in the picture above had an average opioid death rate at least two times the rate of all other clusters. This was the defining feature of the cluster. It can also be seen in the picture above that opioid deaths affected counties from every socioeconomic group, but hit the poor and least populated counties the worst. 
+
+From this project, we were able to determine that demographics do affect how certain people die, until opioid deaths are considered. Opioids are affecting everyone from rich to poor, urban to rural areas, and all races. 

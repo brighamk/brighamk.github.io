@@ -10,3 +10,5 @@ The dataset was found on Kaggle's website at [Heart Disease Dataset on Kaggle](h
 The columns included are: 
 - **Timestamp**: Time the survey was submitted
 
+The first steps I took were to remove the Virgin Islands, Guam, Alaska and Hawaii records to focus on the contiguous 48 states plus the District of Colombia.
+

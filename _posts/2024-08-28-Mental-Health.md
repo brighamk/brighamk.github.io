@@ -36,8 +36,8 @@ The columns included are:
 - **SmokerStatus**: Four-level smoker status: Everyday smoker, Someday smoker, Former smoker, Non-smoker  
 - **ECigaretteUsage**: Would you say you have never used e-cigarettes or other electronic vaping products in your entire life or now use them every day, use them some days, or used them in the past but do not currently use them at all?  
 - **ChestScan**: Have you ever had a CT or CAT scan of your chest area?  
-- **RaceEthnicityCategory**: Five-level race/ethnicity category  
-- **AgeCategory**: Fourteen-level age category  
+- **RaceEthnicityCategory**: Five-level race/ethnicity category (White only, Black Only, Hispanic, Multiracial, Other race only)  
+- **AgeCategory**: Fourteen-level age category (Age 18-24, Age 25-29, Age 30-34, Age 35-39, Age 40-44, Age 45-49, Age 50-54, Age 55-59, Age 60-64, Age 65-69, Age 70-74, Age 75-79, Age 80 or older) 
 - **HeightInMeters**: Reported height in meters  
 - **WeightInKilograms**: Reported weight in kilograms  
 - **BMI**: Body Mass Index (BMI)  
@@ -45,9 +45,9 @@ The columns included are:
 - **HIVTesting**: Adults who have ever been tested for HIV  
 - **FluVaxLast12**: During the past 12 months, have you had either flu vaccine that was sprayed in your nose or flu shot injected into your arm?  
 - **PneumoVaxEver**: Have you ever had a pneumonia shot also known as a pneumococcal vaccine?  
-- **TetanusLast10Tdap**: Have you received a tetanus shot in the past 10 years? Was this Tdap, the tetanus shot that also has pertussis or whooping cough vaccine?  
+- **TetanusLast10Tdap**: Have you received a tetanus shot in the past 10 years? Was this Tdap, the tetanus shot that also has pertussis or whooping cough vaccine?  (Yes received Tdap, Yes received tetanus shot but not sure what type, Yes received tetanus shot but not Tdap, No did not receive any tetanus shot in past 10 years)
 - **HighRiskLastYear**: You have injected any drug other than those prescribed for you in the past year. You have been treated for a sexually transmitted disease or STD in the past year. You have given or received money or drugs in exchange for sex in the past year.  
-- **CovidPos**: Has a doctor, nurse, or other health professional ever told you that you tested positive for COVID-19?  
+- **CovidPos**: Has a doctor, nurse, or other health professional ever told you that you tested positive for COVID-19?  Options: Yes, tested positive using a home test without professional, No
 
 
 The first steps I took were to remove the Virgin Islands, Guam, Puerto Rico, Alaska and Hawaii records to focus on the contiguous 48 states plus the District of Colombia.

@@ -8,7 +8,49 @@ The goal of this project is to conduct an analysis of a 2022 Heart Disease datas
 The dataset was found on Kaggle's website at [Heart Disease Dataset on Kaggle](https://www.kaggle.com/datasets/kamilpytlak/personal-key-indicators-of-heart-disease). It includes 40 fields and 246,022 records. I utilized the 2022 dataset that has the rows with missing data removed.
 
 The columns included are: 
-- **Timestamp**: Time the survey was submitted
+- **State**: State of residency  
+- **Sex**: Sex of respondent  
+- **GeneralHealth**: Would you say in general your health is Excellent, Very Good, Good, Fair, or Poor?  
+- **PhysicalHealthDays**: Now thinking about your physical health, which includes physical illness and injury, for how many days during the past 30 days was your physical health not good?  
+- **MentalHealthDays**: Now thinking about your mental health, which includes stress, depression, and problems with emotions, for how many days during the past 30 days was your mental health not good?  
+- **LastCheckupTime**: About how long has it been since you last visited a doctor for a routine checkup? Options: Within past year (anytime less than 12 months), Within past 2 years (greater than 1 year but less than 2 years), Within past 5 years (greater than 2 years but less than 5 years), 5 or more years ago  
+- **PhysicalActivities**: During the past month, other than your regular job, did you participate in any physical activities or exercises such as running, calisthenics, golf, gardening, or walking for exercise?  
+- **SleepHours**: On average, how many hours of sleep do you get in a 24-hour period?  
+- **RemovedTeeth**: Not including teeth lost for injury or orthodontics, how many of your permanent teeth have been removed because of tooth decay or gum disease? Options: None of them, 1-5, 6 or more but not all, All  
+- **HadHeartAttack**: Have you ever been told you had a heart attack, also called a myocardial infarction?  
+- **HadAngina**: Have you ever been told you had angina or coronary heart disease?  
+- **HadStroke**: Have you ever been told you had a stroke?  
+- **HadAsthma**: Have you ever been told you had asthma?  
+- **HadSkinCancer**: Have you ever been told you had skin cancer that is not melanoma?  
+- **HadCOPD**: Have you ever been told you had C.O.P.D. (chronic obstructive pulmonary disease), emphysema or chronic bronchitis?  
+- **HadDepressiveDisorder**: Have you ever been told you had a depressive disorder (including depression, major depression, dysthymia, or minor depression)?  
+- **HadKidneyDisease**: Not including kidney stones, bladder infection or incontinence, have you ever been told you had kidney disease?  
+- **HadArthritis**: Have you ever been told you had some form of arthritis, rheumatoid arthritis, gout, lupus, or fibromyalgia? (Arthritis diagnoses include: rheumatism, polymyalgia rheumatica; osteoarthritis (not osteoporosis); tendonitis, bursitis, bunion, tennis elbow; carpal tunnel syndrome, tarsal tunnel syndrome; joint infection, etc.)  
+- **HadDiabetes**: Have you ever been told you had diabetes? Options: Yes, Yes but only during pregnancy, No, No (pre-diabetes or borderline diabetes)  
+- **DeafOrHardOfHearing**: Are you deaf or do you have serious difficulty hearing?  
+- **BlindOrVisionDifficulty**: Are you blind or do you have serious difficulty seeing, even when wearing glasses?  
+- **DifficultyConcentrating**: Because of a physical, mental, or emotional condition, do you have serious difficulty concentrating, remembering, or making decisions?  
+- **DifficultyWalking**: Do you have serious difficulty walking or climbing stairs?  
+- **DifficultyDressingBathing**: Do you have difficulty dressing or bathing?  
+- **DifficultyErrands**: Because of a physical, mental, or emotional condition, do you have difficulty doing errands alone such as visiting a doctor’s office or shopping?  
+- **SmokerStatus**: Four-level smoker status: Everyday smoker, Someday smoker, Former smoker, Non-smoker  
+- **ECigaretteUsage**: Would you say you have never used e-cigarettes or other electronic vaping products in your entire life or now use them every day, use them some days, or used them in the past but do not currently use them at all?  
+- **ChestScan**: Have you ever had a CT or CAT scan of your chest area?  
+- **RaceEthnicityCategory**: Five-level race/ethnicity category  
+- **AgeCategory**: Fourteen-level age category  
+- **HeightInMeters**: Reported height in meters  
+- **WeightInKilograms**: Reported weight in kilograms  
+- **BMI**: Body Mass Index (BMI)  
+- **AlcoholDrinkers**: Adults who reported having had at least one drink of alcohol in the past 30 days.  
+- **HIVTesting**: Adults who have ever been tested for HIV  
+- **FluVaxLast12**: During the past 12 months, have you had either flu vaccine that was sprayed in your nose or flu shot injected into your arm?  
+- **PneumoVaxEver**: Have you ever had a pneumonia shot also known as a pneumococcal vaccine?  
+- **TetanusLast10Tdap**: Have you received a tetanus shot in the past 10 years? Was this Tdap, the tetanus shot that also has pertussis or whooping cough vaccine?  
+- **HighRiskLastYear**: You have injected any drug other than those prescribed for you in the past year. You have been treated for a sexually transmitted disease or STD in the past year. You have given or received money or drugs in exchange for sex in the past year.  
+- **CovidPos**: Has a doctor, nurse, or other health professional ever told you that you tested positive for COVID-19?  
 
-The first steps I took were to remove the Virgin Islands, Guam, Alaska and Hawaii records to focus on the contiguous 48 states plus the District of Colombia.
+
+The first steps I took were to remove the Virgin Islands, Guam, Puerto Rico, Alaska and Hawaii records to focus on the contiguous 48 states plus the District of Colombia.
+
+
 
